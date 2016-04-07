@@ -1,0 +1,10 @@
+server:
+  port: 8765
+
+zuul:
+  routes:
+    demo-service:
+      path: /**
+      url: http://localhost:8080
+      stripPrefix: false
+  
