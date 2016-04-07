@@ -1,4 +1,4 @@
-Steps to Reproduce the [issue](https://github.com/spring-cloud/spring-cloud-netflix/issues/923):
+Steps to reproduce the [issue](https://github.com/spring-cloud/spring-cloud-netflix/issues/923):
 ----------------------------
 1. Run demo service:
 
